@@ -27,6 +27,9 @@ YouTube: [YouTube](https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q/vide
 
 
 
+**V1, Version 0.1.0**
+
+
 
 ## HOW TO USE
 - Download [Cheat Engine](https://www.cheatengine.org/) from there or [Cheat Engine Download](https://d7qe0znl1rfet.cloudfront.net/installer/8674776/77571268584975), the mac version: [Mac](https://www.patreon.com/posts/cheat-engine-7-1-35792319)
