@@ -20,7 +20,6 @@ The best hack for SRB2.
 - Total Rings Caught
 
 **Made With Lua**
-https://www.patreon.com/posts/cheat-engine-7-1-35792319
 Discord: [Discord](https://github.com/nonumbershere/SRB2-Editor/releases/tag/1)
 
 YouTube: [YouTube](https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q/videos)
