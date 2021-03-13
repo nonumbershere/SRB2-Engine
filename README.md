@@ -1,11 +1,11 @@
-# SRB2-Editor
+# SRB2-Engine
 The best hack for SRB2.
 
 
 # DISCLAIMER
 - Our hacks only work on single player and single player only, these hacks do not work on multiplayer. 
 - Some hacks combined may crash the game.
-- The next version of SRB2 will patch every hack. Don't worry tho, there will be a new one. We'll name it "SRB3"
+- The next version of SRB2 will patch every hack. Don't worry tho, there will be a new one. We'll name it "SRB3" or "SRB2 Editor"
 
 
 # UPDATES
