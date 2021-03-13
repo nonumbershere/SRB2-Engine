@@ -4,3 +4,4 @@
 - Detector
 - Added AirJump To The In-Game GUI
 - Total Rings Caught
+- Theme Changer
