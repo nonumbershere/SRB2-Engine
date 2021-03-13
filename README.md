@@ -9,15 +9,11 @@ The best hack for SRB2.
 
 
 # UPDATES
-**Nothing**
+- In game GUI
 
 
 # ADDED
-- Speef (High Jump + Long Thok)
-- High jump
-- Detector
-- Added AirJump To The In-Game GUI
-- Total Rings Caught
+- Theme Changer To in game GUI
 
 **Made With Lua**
 Discord: [Discord](https://github.com/nonumbershere/SRB2-Editor/releases/tag/1)
