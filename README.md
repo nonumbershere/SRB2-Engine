@@ -28,5 +28,5 @@ YouTube: [YouTube](https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q/vide
 
 ## HOW TO USE
 - Download [Cheat Engine](https://www.cheatengine.org/) from there or [Cheat Engine Download](https://d7qe0znl1rfet.cloudfront.net/installer/8674776/77571268584975), the mac version: [Mac](https://www.patreon.com/posts/cheat-engine-7-1-35792319)
-- Download the cheat table at [SRB2 Editor](https://github.com/nonumbershere/SRB2-Editor/releases/download/1/SRB2.Engine.CT)
+- Get the latest cheat table at [SRB2 Editor](https://github.com/nonumbershere/SRB2-Engine/releases)
 - You're all set!
