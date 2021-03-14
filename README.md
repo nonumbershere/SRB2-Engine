@@ -9,11 +9,13 @@ The best hack for SRB2.
 
 
 # UPDATES
-- In game GUI
+**Nothing**
 
 
 # ADDED
-- Theme Changer To in game GUI
+- Volume
+- Saturation
+- Closed Captions
 
 **Made With Lua**
 Discord: [Discord](https://github.com/nonumbershere/SRB2-Editor/releases/tag/1)
